@@ -1,0 +1,6 @@
+[submodule "data-portal-frontend"]
+	path = data-portal-frontend
+	url = git@github.com:arjunpotter17/data-portal-frontend.git
+[submodule "data-portal-backend"]
+	path = data-portal-backend
+	url = git@github.com:arjunpotter17/data-portal-backend.git
